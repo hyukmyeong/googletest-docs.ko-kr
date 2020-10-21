@@ -1,5 +1,3 @@
-# googletest, googlemock documents in Korean
-
 ## googletest
 
 | korean version                              | original version                                                                                    |
