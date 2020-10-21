@@ -1,8 +1,4 @@
-# googletest documents in Korean
-
-## Note
-
-- googletest 한글판 가이드 (최근동기화 : 2019/9/2)
+# googletest, googlemock documents in Korean
 
 ## googletest
 
