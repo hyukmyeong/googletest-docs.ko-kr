@@ -1,4 +1,4 @@
-## googletest
+## googletest documents
 
 | korean version                              | original version                                                                                    |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -6,7 +6,7 @@
 | [advanced.md](googletest/advanced.md)       | [advanced.md](https://github.com/google/googletest/blob/master/googletest/docs/advanced.md)         |
 | [faq.md](googletest/faq.md)                 | [faq.md](https://github.com/google/googletest/blob/master/googletest/docs/faq.md)                   |
 
-## googlemock
+## googlemock documents
 
 | korean version                              | original version                                                                                    |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
